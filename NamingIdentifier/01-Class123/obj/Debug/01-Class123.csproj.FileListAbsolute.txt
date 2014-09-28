@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\01-Class123\bin\Debug\01-Class123.exe.config
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\01-Class123\bin\Debug\01-Class123.exe
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\01-Class123\bin\Debug\01-Class123.pdb
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\01-Class123\obj\Debug\01-Class123.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\01-Class123\obj\Debug\01-Class123.exe
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\01-Class123\obj\Debug\01-Class123.pdb
+D:\Code\MyRepository\KPK\NamingIdentifier\01-Class123\bin\Debug\01-Class123.exe.config
+D:\Code\MyRepository\KPK\NamingIdentifier\01-Class123\obj\Debug\01-Class123.exe
+D:\Code\MyRepository\KPK\NamingIdentifier\01-Class123\obj\Debug\01-Class123.pdb

@@ -1,0 +1,8 @@
+D:\ПРОГРАМИСТ\KPK\Code Tuning\03.SqrLogSinCos\bin\Debug\03.SqrLogSinCos.exe.config
+D:\ПРОГРАМИСТ\KPK\Code Tuning\03.SqrLogSinCos\bin\Debug\03.SqrLogSinCos.exe
+D:\ПРОГРАМИСТ\KPK\Code Tuning\03.SqrLogSinCos\bin\Debug\03.SqrLogSinCos.pdb
+D:\ПРОГРАМИСТ\KPK\Code Tuning\03.SqrLogSinCos\obj\Debug\03.SqrLogSinCos.exe
+D:\ПРОГРАМИСТ\KPK\Code Tuning\03.SqrLogSinCos\obj\Debug\03.SqrLogSinCos.pdb
+D:\Code\MyRepository\KPK\Code Tuning\03.SqrLogSinCos\bin\Debug\03.SqrLogSinCos.exe.config
+D:\Code\MyRepository\KPK\Code Tuning\03.SqrLogSinCos\obj\Debug\03.SqrLogSinCos.exe
+D:\Code\MyRepository\KPK\Code Tuning\03.SqrLogSinCos\obj\Debug\03.SqrLogSinCos.pdb

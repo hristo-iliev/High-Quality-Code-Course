@@ -1,0 +1,6 @@
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\03-JavaScript\bin\03-JavaScript.dll.config
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\03-JavaScript\bin\03-JavaScript.dll
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\03-JavaScript\bin\03-JavaScript.pdb
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\03-JavaScript\obj\Debug\03-JavaScript.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\03-JavaScript\obj\Debug\03-JavaScript.dll
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\03-JavaScript\obj\Debug\03-JavaScript.pdb

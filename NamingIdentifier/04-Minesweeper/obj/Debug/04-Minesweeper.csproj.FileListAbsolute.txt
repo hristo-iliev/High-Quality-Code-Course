@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\04-Minesweeper\bin\Debug\04-Minesweeper.exe.config
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\04-Minesweeper\bin\Debug\04-Minesweeper.exe
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\04-Minesweeper\bin\Debug\04-Minesweeper.pdb
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\04-Minesweeper\obj\Debug\04-Minesweeper.exe
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\04-Minesweeper\obj\Debug\04-Minesweeper.pdb
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\04-Minesweeper\obj\Debug\04-Minesweeper.csprojResolveAssemblyReference.cache
+D:\Code\MyRepository\KPK\NamingIdentifier\04-Minesweeper\bin\Debug\04-Minesweeper.exe.config
+D:\Code\MyRepository\KPK\NamingIdentifier\04-Minesweeper\obj\Debug\04-Minesweeper.exe
+D:\Code\MyRepository\KPK\NamingIdentifier\04-Minesweeper\obj\Debug\04-Minesweeper.pdb

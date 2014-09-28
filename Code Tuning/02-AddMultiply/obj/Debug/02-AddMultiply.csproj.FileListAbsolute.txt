@@ -1,0 +1,9 @@
+D:\ПРОГРАМИСТ\KPK\Code Tuning\02-AddMultiply\bin\Debug\02-AddMultiply.exe.config
+D:\ПРОГРАМИСТ\KPK\Code Tuning\02-AddMultiply\bin\Debug\02-AddMultiply.exe
+D:\ПРОГРАМИСТ\KPK\Code Tuning\02-AddMultiply\bin\Debug\02-AddMultiply.pdb
+D:\ПРОГРАМИСТ\KPK\Code Tuning\02-AddMultiply\obj\Debug\02-AddMultiply.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\KPK\Code Tuning\02-AddMultiply\obj\Debug\02-AddMultiply.exe
+D:\ПРОГРАМИСТ\KPK\Code Tuning\02-AddMultiply\obj\Debug\02-AddMultiply.pdb
+D:\Code\MyRepository\KPK\Code Tuning\02-AddMultiply\bin\Debug\02-AddMultiply.exe.config
+D:\Code\MyRepository\KPK\Code Tuning\02-AddMultiply\obj\Debug\02-AddMultiply.exe
+D:\Code\MyRepository\KPK\Code Tuning\02-AddMultiply\obj\Debug\02-AddMultiply.pdb

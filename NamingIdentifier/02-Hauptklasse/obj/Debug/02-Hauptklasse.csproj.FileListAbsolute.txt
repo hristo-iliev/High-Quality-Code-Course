@@ -1,0 +1,2 @@
+D:\ПРОГРАМИСТ\KPK\02. NamingIdentifier\02-Hauptklasse\bin\Debug\02-Hauptklasse.exe.config
+D:\Code\MyRepository\KPK\NamingIdentifier\02-Hauptklasse\bin\Debug\02-Hauptklasse.exe.config

@@ -1,0 +1,3 @@
+D:\ПРОГРАМИСТ\KPK\03-CodeDocumentation\03-CodeDocumentation\bin\Debug\03-CodeDocumentation.exe.config
+D:\ПРОГРАМИСТ\KPK\03-CodeDocumentation\03-CodeDocumentation\obj\Debug\03-CodeDocumentation.csprojResolveAssemblyReference.cache
+D:\Code\MyRepository\KPK\CodeDocumentation\03-CodeDocumentation\bin\Debug\03-CodeDocumentation.exe.config

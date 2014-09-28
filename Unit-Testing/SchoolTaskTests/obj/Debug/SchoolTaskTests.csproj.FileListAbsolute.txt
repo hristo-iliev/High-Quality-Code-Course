@@ -1,0 +1,7 @@
+D:\ПРОГРАМИСТ\KPK\Unit-Testing\SchoolTaskTests\obj\Debug\SchoolTaskTests.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\KPK\Unit-Testing\SchoolTaskTests\bin\Debug\SchoolTaskTests.dll
+D:\ПРОГРАМИСТ\KPK\Unit-Testing\SchoolTaskTests\bin\Debug\SchoolTaskTests.pdb
+D:\ПРОГРАМИСТ\KPK\Unit-Testing\SchoolTaskTests\bin\Debug\ClassLibrary1.dll
+D:\ПРОГРАМИСТ\KPK\Unit-Testing\SchoolTaskTests\bin\Debug\ClassLibrary1.pdb
+D:\ПРОГРАМИСТ\KPK\Unit-Testing\SchoolTaskTests\obj\Debug\SchoolTaskTests.dll
+D:\ПРОГРАМИСТ\KPK\Unit-Testing\SchoolTaskTests\obj\Debug\SchoolTaskTests.pdb

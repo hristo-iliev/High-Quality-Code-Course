@@ -1,0 +1,2 @@
+D:\ПРОГРАМИСТ\KPK\Code Tuning\04-WichAlgorithmIsFaster\bin\Debug\04-WichAlgorithmIsFaster.exe.config
+D:\Code\MyRepository\KPK\Code Tuning\04-WichAlgorithmIsFaster\bin\Debug\04-WichAlgorithmIsFaster.exe.config

@@ -1,0 +1,5 @@
+D:\ПРОГРАМИСТ\KPK\04-VariablesData\01_Size\bin\Debug\01_Size.exe.config
+D:\ПРОГРАМИСТ\KPK\04-VariablesData\01_Size\obj\Debug\01_Size.csprojResolveAssemblyReference.cache
+D:\ПРОГРАМИСТ\KPK\04-VariablesData\01_Size\obj\Debug\_01_Size.Properties.Resources.resources
+D:\ПРОГРАМИСТ\KPK\04-VariablesData\01_Size\obj\Debug\01_Size.csproj.GenerateResource.Cache
+D:\Code\MyRepository\KPK\VariablesData\01_Size\bin\Debug\01_Size.exe.config
